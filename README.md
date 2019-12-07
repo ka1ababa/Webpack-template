@@ -1,3 +1,6 @@
+## Build Setup:
+
+``` bash
 # Download repository:
 git clone https://github.com/ka1ababa/Webpack-template.git
 
